@@ -5,7 +5,7 @@ apt-get install git
 
 pip3 install requests
 
-pip3 instal coloram
+pip3 install coloram
 
 https://github.com/MrGenzzx2007x/hackam
 
